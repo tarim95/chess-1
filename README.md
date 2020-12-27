@@ -1,4 +1,4 @@
-# Chess
+# Chess of Tarim
 A Chess game written with Jetpack Compose.
 
 Ported from [https://github.com/nicklockwood/Chess](https://github.com/nicklockwood/Chess).
